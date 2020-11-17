@@ -1,0 +1,149 @@
+late (-50%, -50%);
+}
+
+.nav {
+	width: 350px;
+	height: auto;
+	position: absolute;
+	top: 20%;
+	left: 0;
+}
+
+.nav a{
+	text-decoration: none;
+	font-size: 28px;
+	font-family: verdana;
+	font-weight: bold;
+                height: 90px;
+	margin: 5px 0;
+	float: left;
+	display: inline-block;
+	background-color: black;
+	color: white;
+	line-height: 90px;
+	text-align: center;
+	transition: 300ms;
+}
+
+a.active, .nav a:hover{
+	background-color: white;
+	color: gray;
+	width: 100%;
+}
+
+.a {
+	width: 95%;
+}
+
+.b {
+	width: 75%;
+}
+
+.c {
+	width: 70%;
+}
+
+.d {
+	width: 90%;
+}
+
+body{
+	text-align: center;
+	
+}
+
+.nav, .b{
+text-decoration: none;
+	font-size: 15px;
+	font-family: verdana;
+	font-weight: italic;
+                height: 40px;
+	margin: 5px 0;
+	float: left;
+	display: inline-block;
+	background-color: black;
+	color: white;
+	line-height: 40px;
+	text-align: left;
+	transition: 300ms;
+}
+
+
+.content h2{
+color: #000;
+font-size: 25px;
+
+
+}
+
+.content h3{
+color: #000;
+font-size: 15px;
+
+
+}
+
+
+.content h3{
+color: #000;
+font-size: 15px;
+display: inline-block;
+
+}
+
+#header{
+	width:145px;
+}
+
+.header a{
+	width: 65px;
+}
+.header b{
+	width: 70px;
+}
+
+.header c{
+	width: 30px;
+}
+
+
+.content h2{
+color: #fff;
+font-size: 25px;
+
+
+}
+
+.content h3{
+color: #fff;
+font-size: 17px;
+
+
+}
+
+
+.content h3{
+color: #fff;
+font-size: 17px;
+}
+
+.about{
+background-color: gray;
+color: black;
+
+}
+
+.button-link {
+position: center;
+color: #fff;
+
+}
+
+a: link {
+text-decoration: none;
+
+}
+
+a:active {
+text-decoration: underline;
+}
